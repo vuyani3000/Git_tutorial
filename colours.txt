@@ -1,3 +1,6 @@
 green
 brown
 yellow
+pink
+grey
+black
